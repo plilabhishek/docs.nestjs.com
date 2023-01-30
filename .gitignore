@@ -11,7 +11,7 @@ dist/*
 /tmp
 /out-tsc
 
-/mongodb+srv://BusinessEnablerAdmin:AkROj6jZX8BdGL9g@businessenabler-uat.ystpsmi.mongodb.net
+
 
 # dependencies
 /node_modules
